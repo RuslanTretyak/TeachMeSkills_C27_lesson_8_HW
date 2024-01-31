@@ -1,3 +1,11 @@
+package cliniс.service;
+
+import cliniс.patient.Patient;
+import cliniс.stuff.Dentist;
+import cliniс.stuff.Doctor;
+import cliniс.stuff.Surgeon;
+import cliniс.stuff.Therapist;
+
 public class Fabric {
     public static Doctor chooseDoctor(Patient patient) {
         switch (patient.getTreatmentPlanCode()) {

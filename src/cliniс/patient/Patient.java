@@ -1,3 +1,7 @@
+package cliniс.patient;
+
+import cliniс.stuff.Doctor;
+
 public class Patient {
     private String name;
     private String surname;

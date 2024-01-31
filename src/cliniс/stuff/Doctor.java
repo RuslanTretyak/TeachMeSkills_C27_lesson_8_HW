@@ -1,3 +1,5 @@
+package cliniс.stuff;
+
 public abstract class Doctor {
     protected String name;
     protected String surname;

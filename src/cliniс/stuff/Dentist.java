@@ -1,3 +1,5 @@
+package cliniс.stuff;
+
 public class Dentist extends Doctor{
     public Dentist(String name, String surname) {
         super(name, surname);

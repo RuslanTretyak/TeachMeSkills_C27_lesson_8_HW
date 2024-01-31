@@ -1,3 +1,6 @@
+import cliniс.patient.Patient;
+import cliniс.stuff.Therapist;
+
 public class Main {
     public static void main(String[] args) {
         Patient patient1 = new Patient("Иван", "Иванов", 1);
